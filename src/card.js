@@ -28,8 +28,7 @@ const handlequantitysub=()=>{
         <Card.Title>{product.title}</Card.Title>
         {console.log(product)}
         <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
+          this is my product
         </Card.Text>
         <h4>price:<span id="prix">{product.price*quantité}</span>$</h4>
         <h4>quantité:<span id="quanty">{quantité}</span></h4>
